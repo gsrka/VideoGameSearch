@@ -1,9 +1,5 @@
-#(video_game_search_engine)
 
-A simple Android app to search video games online using GiantBomb API.
-
-
-
+A simple Android app to search video games online using GiantBomb Video Game API.
 
 Libraries Used
 ============================================================
@@ -22,5 +18,3 @@ GameScreen (Game Details screen)
 Orientation Changes are handled in both Activities.
 Page Size = 10
 
-
-# Video-Game-Search
